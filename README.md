@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Hosted on GitHub Pages : https://chintan-k.github.io/covid-statistics/
+### Hosted on GitHub Pages : https://chintan-k.github.io/covid-statistics/
 
 ## Available Scripts
 
