@@ -1,0 +1,11 @@
+.maintitle{
+    font-size: 8vw;
+    font-family: 'Grenze Gotisch', cursive;
+    text-align: center;
+}
+
+@media (max-width: 770px) {
+    .maintitle {
+      font-size: 14vw;
+    }
+  }
